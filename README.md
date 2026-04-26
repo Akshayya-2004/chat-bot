@@ -1,6 +1,6 @@
-# GestureBridge Chatbot Backend
+# BridgeBot
 
-GestureBridge Chatbot Backend is a Python-based backend system developed for real-time sign language gesture recognition and chatbot interaction. The project uses computer vision and hand tracking technologies to detect sign language gestures from webcam input and process them for communication assistance.
+BridgeBot is a Python-based backend system developed for real-time sign language gesture recognition and chatbot interaction. The project uses computer vision and hand tracking technologies to detect sign language gestures from webcam input and process them for communication assistance.
 
 The backend is built using Flask and integrates OpenCV and MediaPipe for gesture detection and processing.
 
